@@ -9,7 +9,7 @@
 
 ## Laravel on Google Cloud Run
 
-This is a demo repo for Laravel 6 on Google Cloud Run. This repo has an example with CI/CD with Github Actions.
+This is a demo repo for a blog post on [Laravel 6 on Google Cloud Run](https://geshan.com.np/blog/2019/10/get-laravel-6-running-on-google-cloud-run-step-by-step-with-ci/). This repo has an example with CI/CD with Github Actions.
 
 ### Run on Google cloud run
 
